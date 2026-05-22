@@ -7,7 +7,7 @@ I created this `.reg` file to quickly replace the default Notepad++ file icon wi
 > This tweak changes the icon globally for **all** file types currently associated with Notepad++. I have not found a way to set individual file type icons for files that are currently associated with Notepad++.
 
 ## How to use
-1. **Download** the UndoNotepadplusplusIcon.reg file
+1. **Download** the [UndoNotepadplusplusIcon.reg](https://github.com/PixelIndieDev/Undo-Notepadplusplus-icon/releases/download/V1/UndoNotepadplusplusIcon.reg) file
 2. **Double-click the file** to apply the changes to your Windows Registry
 3. **Restart File Explorer** (or restart your PC) for the changes to take effect
 4. **Done**
