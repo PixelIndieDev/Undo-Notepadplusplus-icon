@@ -1,4 +1,6 @@
 # Undo Notepad++ file icon
+![Registry](https://img.shields.io/badge/File-.reg-green)
+
 A registry script that changes the Notepad++ file type icon to the default Windows text document icon.
 
 I created this `.reg` file to quickly replace the default Notepad++ file icon with the standard Windows text document icon, as I prefer that look for my text files over the Notepad++ file icon.
